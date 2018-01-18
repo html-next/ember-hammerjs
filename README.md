@@ -1,6 +1,8 @@
 Ember HammerJS 
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/html-next/ember-hammerjs.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/ember-hammerjs.svg)](http://badge.fury.io/js/ember-hammerjs)
 [![Build Status](https://travis-ci.org/runspired/ember-hammerjs.svg?branch=master)](https://travis-ci.org/runspired/ember-hammerjs)
 [![Ember Observer Score](http://emberobserver.com/badges/ember-hammerjs.svg)](http://emberobserver.com/addons/ember-hammerjs)
