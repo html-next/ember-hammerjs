@@ -40,12 +40,7 @@ npm install --save-dev ember-hammerjs && ember g ember-hammerjs
 
 ## Support, Questions, Collaboration
 
-This addon is part of the [ember-gestures](https://github.com/runspired/ember-gestures)
-family, for support join the [e-gestures](https://embercommunity.slack.com/messages/e-gestures/)
-channel on Slack.
-
-[![Slack Status](https://ember-community-slackin.herokuapp.com/badge.svg)](https://ember-community-slackin.herokuapp.com/)
-
+Join the [Ember community on Discord](https://discord.gg/zT3asNS)
 
 ### Status
 
